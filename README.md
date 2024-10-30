@@ -1,12 +1,12 @@
 # Very_Easy_Game
  정말 쉬울까?
-## 목표
+## 목표 (Goal)
 점프와 달리기와 여러 아이템을 이용해 목적지까지 도달하는 3D 플랫포머 게임
-## 구현내용
+## 구현내용 (Implemented Features)
 - 플레이어 움직임 (Move, Jump, Look)
 - 플레이어 Status UI (체력, 스테미나)
 
-## 구현해야 할 내용
+## 구현해야 할 내용 (Features To Be Implemented)
 - 아이템
  - 아이템 데이터 (ScriptableObject)
  - 아이템 상호작용 (동적 환경 조사)
@@ -16,7 +16,7 @@
 - 플랫폼
   - 플랫폼 지형 생성
 
-## 트러블 슈팅(Trouble Shooting)
+## 트러블 슈팅 (Trouble Shooting)
 1. Look 기능에서 Mouse의 방향을 `Delta`값으로 조절하는지 `Vector2`값으로 조절하는지 정확히 파악하기
 ```cs
 private void CameraLook()
