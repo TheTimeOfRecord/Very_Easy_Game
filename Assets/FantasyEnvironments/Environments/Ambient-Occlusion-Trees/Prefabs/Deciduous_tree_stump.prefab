@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4341730311799906}
   - component: {fileID: 205222133322211786}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Deciduous_tree_stump
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73,7 +73,7 @@ GameObject:
   - component: {fileID: 4808470524538106}
   - component: {fileID: 33470061818490538}
   - component: {fileID: 23192281985518496}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Deciduous_tree_stump_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -156,7 +156,7 @@ GameObject:
   - component: {fileID: 4615735402089938}
   - component: {fileID: 33620336478624728}
   - component: {fileID: 23065521947486598}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Deciduous_tree_stump_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 33108016232956256}
   - component: {fileID: 23961277436778224}
   - component: {fileID: 136540115843786838}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Deciduous_tree_stump_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}

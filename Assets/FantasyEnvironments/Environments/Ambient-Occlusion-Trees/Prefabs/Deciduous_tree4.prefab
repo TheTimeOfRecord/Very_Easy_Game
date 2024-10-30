@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33285959268628466}
   - component: {fileID: 23920742472432662}
   - component: {fileID: 136737078254664046}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Deciduous_tree4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
